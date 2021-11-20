@@ -4,7 +4,8 @@ This project is a Python based GUI using tkinter where when text is entered it i
 
     
 ## Screenshots
-
+![Screenshot](noedit.png)
+![Screenshot](edit.png)
 
 
 ## Feedback
